@@ -1,7 +1,7 @@
 # vuejsTemplate
 
 This a simple Asp.net project with a template to add Vue components. It includes the reuqire files to run a small dev enviroment to create Vue Components, 
-once they are ready, just run "npm run webpck", and you can add your component to your Razor  view.
+once they are ready, just run "npm run webpack", and you can add your component to your Razor  view.
 
 ## Instructions
 
